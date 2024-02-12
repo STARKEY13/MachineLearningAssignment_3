@@ -19,7 +19,7 @@ Submitted To Prof. Jayadeval
 1. [Avoiding Overfitting ](#_page3_x70.87_y233.11). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
 1. [Plotting Graph . ](#_page3_x70.87_y333.98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
 
-**IIT Delhi Software Fundamentals![](Aspose.Words.384d325e-24fd-4f37-be07-9c20386a4f39.002.png)**
+**IIT Delhi![](Aspose.Words.384d325e-24fd-4f37-be07-9c20386a4f39.002.png)**
 
 <a name="_page2_x70.87_y83.82"></a>**1** | **Problem statement**
 
